@@ -1,2 +1,6 @@
-# Job-Portal
-A Job Portal Web Application designed to connect job seekers with employers through a simple, secure, and efficient online platform.
+<<<<<<< HEAD
+
+
+=======
+# Job-Portal-
+>>>>>>> 803e13df9f8b4dc50855bad72432a23b8ff58a4a
